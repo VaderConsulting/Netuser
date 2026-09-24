@@ -24,7 +24,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/Netuser`.
+Working copy from my Historical Dev folder `VB/Old/Netuser`.
 Company names in project files: Regional Transportation Council.
 Third-party attribution: Regional Transportation Council. See `THIRD_PARTY_NOTICES.md`.
 
